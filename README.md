@@ -2,7 +2,7 @@
 
 🚧 **Status: Under Development**
 
-**Quiz Engine** is a basic **C-based quiz application** for creating and running multiple-choice quizzes with scoring and file-based data storage.
+**Quiz Engine** is  basic **C-based quiz application** for creating and running multiple-choice quizzes with scoring and file-based data storage.
 
 ## About
 
